@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JAVA on Kai Blog</title>
-    <link>https://Chenkiwi.github.io.git/tags/java/</link>
+    <link>https://Chenkiwi.github.io/tags/java/</link>
     <description>Recent content in JAVA on Kai Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 13 Mar 2023 10:07:47 +0800</lastBuildDate><atom:link href="https://Chenkiwi.github.io.git/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 10:07:47 +0800</lastBuildDate><atom:link href="https://Chenkiwi.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kai第一篇文章</title>
-      <link>https://Chenkiwi.github.io.git/blog/test/</link>
+      <link>https://Chenkiwi.github.io/blog/test/</link>
       <pubDate>Mon, 13 Mar 2023 10:07:47 +0800</pubDate>
       
-      <guid>https://Chenkiwi.github.io.git/blog/test/</guid>
+      <guid>https://Chenkiwi.github.io/blog/test/</guid>
       <description>一級標題 二級標題 三集標題 四級標題 Hello World 我是阿凱
 你好 摁哼 閉嘴 哈 ㄏ 幹 ㄏ 你好</description>
     </item>
     
     <item>
       <title>Kai第二篇文章</title>
-      <link>https://Chenkiwi.github.io.git/blog/second/</link>
+      <link>https://Chenkiwi.github.io/blog/second/</link>
       <pubDate>Mon, 13 Mar 2023 10:07:47 +0800</pubDate>
       
-      <guid>https://Chenkiwi.github.io.git/blog/second/</guid>
+      <guid>https://Chenkiwi.github.io/blog/second/</guid>
       <description></description>
     </item>
     
